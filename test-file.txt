@@ -1,3 +1,6 @@
 Ensuring git quality forever
 
 and ever
+
+always
+
